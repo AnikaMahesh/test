@@ -22,7 +22,6 @@ function App() {
         </a>
       </header>
       <Navbar type='footer'/>
-      {makebuttons}
     </div>
   );
 }
